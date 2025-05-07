@@ -7,19 +7,6 @@ To write a Python program using A Naive recursive implementation of Minimum Cost
 
 
 ## Algorithm
-1. 
-2. 
-3. 
-4.  
-5.   # EX 5A Minimum Cost Path
-## DATE:
-## AIM:
-To write a Python program using A Naive recursive implementation of Minimum Cost Path Problem.
-
-
-
-
-## Algorithm
 1. Make a table to store minimum costs to reach each cell.
 2. Set the starting cell's cost as the first cost.
 3. Fill the first row and first column by adding costs from left and top.
@@ -58,24 +45,6 @@ print(minCost(cost, R-1, C-1))
 ## Output:
 ![image](https://github.com/user-attachments/assets/de355415-f4d7-4237-9af5-5d93d4835f38)
 
-
-
-
-## Result:
-Thus the above program was executed successfully for finding the minimum cost.
-
-
-## Program:
-```
-/*
-A program to implement to find the Minimum Cost Path Problem using a  Naive recursive Approach.
-
-Developed by: 
-Register Number:  
-*/
-```
-
-## Output:
 
 
 
